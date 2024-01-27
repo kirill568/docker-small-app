@@ -15,4 +15,4 @@ def users_action():
 
 @app.get("/tools")
 def users_action():
-    return {"info": "Смог сделать простое API, используя FastAPI"}
+    return {"info": "Смог сделать простое API, используя FastAPI и Docker"}
